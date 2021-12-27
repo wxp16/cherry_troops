@@ -6,3 +6,5 @@ Archive some interesting papers
 
 - [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/pdf/2111.12993.pdf)
 
+- CLIP: contrastive training, zer-shot classifer
+
